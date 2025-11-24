@@ -1,0 +1,10 @@
+# IP ranges and individual addresses
+# Range notation: start_ip-end_ip
+192.168.122.2-192.168.122.253
+
+# CIDR notation examples
+# 192.168.1.0/24
+
+# Individual IPs
+# 8.8.8.8
+# 1.1.1.1

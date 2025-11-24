@@ -1,0 +1,14 @@
+# Sample IP addresses to test
+# One IP address per line, comments start with #
+
+# Public DNS servers
+8.8.8.8
+1.1.1.1
+208.67.222.222
+
+# Common local network ranges (these may not respond)
+192.168.1.1
+10.0.0.1
+
+# Example of potentially unreachable IP
+192.0.2.1
